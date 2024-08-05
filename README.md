@@ -6,7 +6,7 @@
 
 - Check out my itch.io page: https://thebossa-works.itch.io/
 - Here is my Google Play Store: https://play.google.com/store/apps/dev?id=9073090043278596014
-- Steam Page Coming Soon!
+- Steam Page: https://store.steampowered.com/developer/thebossaworks
 
 <!---
 TheBossaaa/TheBossaaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
