@@ -4,9 +4,10 @@
 - 💞️ I'm very social and entrepreneurial. I can learn almost anything and I've been pushing my limits to improve since I was born.
 - 📫 Wanna contact me? E-mail: thebossaworks@gmail.com, LinkedIn: https://www.linkedin.com/in/himmetogulakol/
 
+- Steam Page: https://store.steampowered.com/developer/thebossaworks
 - Check out my itch.io page: https://thebossa-works.itch.io/
 - Here is my Google Play Store: https://play.google.com/store/apps/dev?id=9073090043278596014
-- Steam Page: https://store.steampowered.com/developer/thebossaworks
+
 
 <!---
 TheBossaaa/TheBossaaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
