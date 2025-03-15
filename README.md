@@ -1,17 +1,23 @@
 <h1 align="center">Hi 👋, I'm TheBossa from TheBossa Works!</h1>
-<h3 align="center">I'm a passionate intermediate level indie developer using Unity.</h3>
+<h3 align="center">I'm a Passionate Intermediate-Level Indie Game Developer using Unity.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thebossaaa&label=Profile%20views&color=0e75b6&style=plastic" alt="thebossaaa" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thebossaaa" alt="thebossaaa" /></a> </p>
 
-- 🔭 I’m currently working on [Reality Breach](https://store.steampowered.com/app/3118910/Reality_Breach/)
+- 🔨 I’m currently working on: [Reality Breach](https://store.steampowered.com/app/3118910/Reality_Breach/)
 
-- 🌱 I’m constantly learning and improving specifically on: **Unity, C#, Project Management, Blender 3D, Marketing and Business.**
+- 🔄 My workflow approach: Agile, Scrum, Iterative Development,
+  
+- 📌 My expertise: Innovation Management, Entrepreneurship, Strategy, Project Management and Game Development, 
 
-- 👯 I’m always happy to collaborate on **Unity projects.**
+- 🌱 I’m constantly learning and improving specifically on: **Unity, C#, Blender 3D, Animation, Monetisation, Brand Management, Marketing**
 
-- 💬 Feel free to reach me on topics about: **Unity, Game Dev, Project Management,Innovation and Business.**
+- 🚀 My strengths: Agile Game Production, Innovative Business Development, Unity Game Development.
+
+- 👯 I’m always happy to collaborate on: **Unity projects.**
+
+- 💬 Always feel free to reach me!
 
 - 📫 How to reach me **thebossaworks@gmail.com**
 
