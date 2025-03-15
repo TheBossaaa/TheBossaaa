@@ -1,15 +1,31 @@
-- 👋 Hi, I’m @TheBossaaa, it is written with triple "a" as someone already took the version with single "a".
-- 👀 I’m in love with Game Development, from creative to technical I do all aspects of game development (except sound design).
-- 🌱 I’m at intermediate+ level in C# and Unity. I plan to continue my learning path with C++ with Unreal and Python for AI
-- 💞️ I'm very social and entrepreneurial. I can learn almost anything and I've been pushing my limits to improve since I was born.
-- 📫 Wanna contact me? E-mail: thebossaworks@gmail.com, LinkedIn: https://www.linkedin.com/in/himmetogulakol/
+<h1 align="center">Hi 👋, I'm TheBossa from TheBossa Works!</h1>
+<h3 align="center">I'm a passionate intermediate level indie developer using Unity.</h3>
 
-- Steam Page: https://store.steampowered.com/developer/thebossaworks
-- Check out my itch.io page: https://thebossa-works.itch.io/
-- Here is my Google Play Store: https://play.google.com/store/apps/dev?id=9073090043278596014
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thebossaaa&label=Profile%20views&color=0e75b6&style=plastic" alt="thebossaaa" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thebossaaa" alt="thebossaaa" /></a> </p>
 
-<!---
-TheBossaaa/TheBossaaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔭 I’m currently working on [Reality Breach](https://store.steampowered.com/app/3118910/Reality_Breach/)
+
+- 🌱 I’m constantly learning and improving specifically on: **Unity, C#, Project Management, Blender 3D, Marketing and Business.**
+
+- 👯 I’m always happy to collaborate on **Unity projects.**
+
+- 💬 Feel free to reach me on topics about: **Unity, Game Dev, Project Management,Innovation and Business.**
+
+- 📫 How to reach me **thebossaworks@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/thebossaworks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thebossaworks" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/himmetogulakol/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/himmetogulakol/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/14555839/thebossa-works" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/14555839/thebossa-works" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/@thebossaworks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@thebossaworks" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thebossaaa&show_icons=true&theme=dark&title_color=cc0000&text_color=ffffff&hide_border=true&locale=en&layout=compact" alt="thebossaaa" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thebossaaa&theme=dark" alt="thebossaaa" /></p>
