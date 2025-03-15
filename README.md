@@ -7,13 +7,13 @@
 
 - 🔨 I’m currently working on: [Reality Breach](https://store.steampowered.com/app/3118910/Reality_Breach/)
 
-- 🔄 My workflow approach: Agile, Scrum, Iterative Development,
+- 🔄 My workflow approach: **Agile, Scrum, Iterative Development,**
   
-- 📌 My expertise: Innovation Management, Entrepreneurship, Strategy, Project Management and Game Development, 
+- 📌 My expertise: **Innovation Management, Entrepreneurship, Strategy, Project Management and Game Development,** 
 
 - 🌱 I’m constantly learning and improving specifically on: **Unity, C#, Blender 3D, Animation, Monetisation, Brand Management, Marketing**
 
-- 🚀 My strengths: Agile Game Production, Innovative Business Development, Unity Game Development.
+- 🚀 My strengths: **Agile Game Production, Innovative Business Development, Unity Game Development.**
 
 - 👯 I’m always happy to collaborate on: **Unity projects.**
 
