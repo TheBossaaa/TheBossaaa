@@ -87,10 +87,15 @@ I also act as a bridge to resolve conflicts or issues within the team or between
 
 ## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=thebossaaa&show_icons=true&theme=dark&hide_border=true" alt="stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=thebossaaa&theme=dark&hide_border=true" alt="streak" />
-
-<img src="https://komarev.com/ghpvc/?username=TheBossaaa&label=Profile%20views&color=0e75b6&style=plastic" alt="profile views"/>
+  <div style="display: inline-block; text-align: center; margin: 5px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=thebossaaa&show_icons=true&theme=dark&hide_border=true" alt="stats" />
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 5px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=thebossaaa&theme=dark&hide_border=true" alt="streak" />
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 5px;">
+    <img src="https://komarev.com/ghpvc/?username=TheBossaaa&label=Profile%20views&color=0e75b6&style=plastic" alt="profile views"/>
+  </div>
 </p>
 
 ---
