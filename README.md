@@ -41,7 +41,7 @@ Self-taught and adaptable, I thrive in turning concepts into playable, market-re
   
   <div style="display: inline-block; text-align: center; margin: 10px;">
     <strong>REALTIME SHADER MANIPULATOR [RSM]</strong> 
-    <a href="https://assetstore.unity.com/publishers/117019"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/> </a>
+    <a href="https://assetstore.unity.com/packages/tools/utilities/realtime-shader-manipulator-rsm-326932"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/> </a>
     <a href="https://thebossa-works.itch.io/rsm"> <img src="https://static.itch.io/images/app-icon.svg" alt="Itch.io" width="40" height="40"/> 
       <br>
     <a href="https://thebossa-works.itch.io/rsm"> <img src="https://img.itch.zone/aW1nLzIyNDIyNzM3LnBuZw==/315x250%23c/p6OSty.png" width="300" height="300"/> 
