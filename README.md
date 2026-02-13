@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Himmet Oğul Akol — aka TheBossa (you can call me OG) </h1>
+<h1 align="center">Hi 👋, I'm Himmet Oğul Akol — aka TheBossa (or call me OG) </h1>
 <h3 align="center">Technical Producer | Project Manager | Indie Game Developer</h3>
 
 <p align="center">
