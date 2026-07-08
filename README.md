@@ -28,7 +28,7 @@ Self-taught and adaptable, I thrive in turning concepts into playable, market-re
 <a href="https://store.steampowered.com/app/3427350/Bad_Trip/">
   <img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3427350/header.jpg" width="300"/>
 </a>
-https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3118910/77cd63b42d5ab48f83e2bb72317569f84a6f2dff/header.jpg?t=1782587018
+
 ## 🕹️ Game Jam Projects (Itch.io)
 
 | State of Sarah | Templar's Valor | The Prey | Chase Break |
