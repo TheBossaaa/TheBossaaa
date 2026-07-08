@@ -21,7 +21,7 @@ Self-taught and adaptable, I thrive in turning concepts into playable, market-re
 
 ### <a href="https://store.steampowered.com/app/3118910/Reality_Breach/"> <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" width="100"/> </a> Solo Project - Reality Breach *(In Development)*
 <a href="https://store.steampowered.com/app/3118910/Reality_Breach/">
-  <img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3118910/header2.jpg" alt="Reality Breach on Steam">
+  <img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3118910/header.jpg" alt="Reality Breach on Steam">
 </a>
 
 ### <a href="https://store.steampowered.com/app/3427350/Bad_Trip/"> <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" width="100"/> </a> Contribution - Bad Trip *(In Development)*
